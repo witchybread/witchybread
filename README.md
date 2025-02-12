@@ -1,5 +1,9 @@
 ## Hi there 👋
+I'm a Quality Assurance Analyst of 2+ years specializing in manual testing
 
+I'm looking to learn more about automation testing.
+
+Nice to meet you!
 <!--
 **witchybread/witchybread** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
